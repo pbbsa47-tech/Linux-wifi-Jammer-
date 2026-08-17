@@ -91,4 +91,4 @@ sudo apt install python3 python3-pip aircrack-ng wireless-tools macchanger -y
 sudo pip3 install scapy colorama psutil requests
 git clone https://github.com/pbbsa47-tech/Linux-wifi-Jammer-.git
 cd Linux-wifi-Jammer-
-sudo python3 pbbs_cs_jammer.py
+sudo python3 Jammer.py
